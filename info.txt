@@ -8,3 +8,7 @@ git clone giturl   //first time needed to download project
 at local machine,
 did some changes 
 working area-->(git add <filepath with filename>) -->staging area-->(git commit -m "msg")--->local repo--->(git push)-->central repo(github)
+
+
+for taking some devloper changes
+git pull
